@@ -18,7 +18,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Building and maintaining production web platforms with Next.js, React, and custom admin panels**
-- 🌱 I'm currently learning: **📚 Exploring the Salesforce ecosystem (Apex, LWC)**
+- 🌱 I'm currently learning: **📚 Always picking up something new — one technology at a time, always leveling up**
 - 💬 Ask me about: **💡 JavaScript, React, Next.js, Node.js, PHP, MySQL/PostgreSQL/MongoDB, network infrastructure, keyboards, mice, and PC builds**
 - ⚽ **Football fan**
 - 🗣️ Languages: **Spanish (native), English**
