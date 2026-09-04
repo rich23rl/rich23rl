@@ -29,10 +29,12 @@
 
  **<h3 align="center">📊 GitHub Stats</h3>**
  <p align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=rich23rl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://streak-stats.demolab.com/?user=rich23rl&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rich23rl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  </p>
+   <picture>
+    ![](https://github-readme-stats.shion.dev/api?username=rich23rl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+    ![](https://streak-stats.demolab.com/?user=rich23rl&theme=dark&hide_border=false)<br/>
+    ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rich23rl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  </picture>
+</p>
 
 
 ### 🐍 &nbsp;GitHub Activity
