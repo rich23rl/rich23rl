@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rich23rl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-**<h3 align="center">🐍 GitHub Activity</h3>**
+**<h3 align="center">🚀 GitHub Activity</h3>**
 
 <p align="center"> <img alt="GitHub contributions space shooter game" src="./game.gif" /> </p>
 
