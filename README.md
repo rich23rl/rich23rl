@@ -37,11 +37,5 @@
 
 **<h3 align="center">🐍 GitHub Activity</h3>**
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rich23rl/rich23rl/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rich23rl/rich23rl/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution animation" src="https://raw.githubusercontent.com/rich23rl/rich23rl/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<p align="center"> <img alt="GitHub contributions space shooter game" src="./game.gif" /> </p>
 
