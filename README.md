@@ -27,8 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts,nodejs,java,github,git,kotlin,nestjs,py,php,mongodb,mysql,postgres,docker,bootstrap,powershell,discord,ai,md,notion,vercel,figma,vscode,wordpress" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="44" alt="Intellij" style="margin-right: 12px"> <img 
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts,nodejs,java,github,git,kotlin,nestjs,py,php,mongodb,mysql,postgres,docker,bootstrap,powershell,discord,ai,md,notion,kali,npm,vercel,figma,vscode,idea,wordpress" />
   </a>
 </p>
 
