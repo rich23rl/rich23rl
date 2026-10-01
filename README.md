@@ -12,7 +12,7 @@
 
 **<h3 align="center">🔗 Connect with me:</h3>** 
 <p align="center"><a href="https://www.instagram.com/rich23rl" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.tiktok.com/@richtech23" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/richrl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 12px"></a> <a
-href="https://ricardo-reyes.vercel.app/en" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=for-the-badge&logo=ethernet&logoColor=white" height="28" style="margin-right: 12px alt="Website"></a> </p>
+href="https://ricardo-reyes.vercel.app/en" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=for-the-badge&logo=DEV.to&logoColor=white" height="28" style="margin-right: 12px alt="Website"></a> </p>
 
 
  **<h3 align="center">🚀 Passionate frontend / full stack developer, building robust and scalable web applications with a strong foundation in network infrastructure. Comfortable across the stack, from structured cabling to production Next.js platforms.</h3>**
