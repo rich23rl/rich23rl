@@ -29,7 +29,7 @@ href="https://ricardo-reyes.vercel.app/en" target="_blank"><img src="https://img
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts,nodejs,java,github,git,kotlin,nestjs,py,php,mongodb,mysql,postgres,docker,bootstrap,powershell,ai,md,notion,kali,vercel,figma,vscode,idea,wordpress,digitalocean" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts,nodejs,java,github,git,kotlin,nestjs,py,php,mongodb,mysql,postgres,docker,bootstrap,powershell,ai,md,notion,kali,vercel,figma,vscode,idea,wordpress" />
   </a>
 </p>
 
